@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576773304088",
+    "project_id": "apli-df3d5",
+    "storage_bucket": "apli-df3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576773304088:android:93c2828b0189833feaf86d",
+        "android_client_info": {
+          "package_name": "com.bansals.intern_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576773304088-0a0u0hnh62iq55eavo62m5i5qjeskuvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1xYZsIhou7SHOgqZimUfnySH3GMx5Kt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576773304088-0a0u0hnh62iq55eavo62m5i5qjeskuvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
